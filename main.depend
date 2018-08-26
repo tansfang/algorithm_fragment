@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1534836487 source:g:\algorithm_fragment\sort.cpp
+	<iostream>
+	<vector>
+
+1534986790 source:g:\algorithm_fragment\aim_offer.cpp
+	<iostream>
+
+1535014965 source:g:\algorithm_fragment\binary_tree.cpp
+	<iostream>
+	<vector>
+	<queue>
+
+1534986807 source:g:\algorithm_fragment\dynamic_programming.cpp
+	<iostream>
+	<vector>
+

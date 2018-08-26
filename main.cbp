@@ -12,6 +12,7 @@
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
+					<Add option="-std=c++11" />
 					<Add option="-g" />
 				</Compiler>
 			</Target>
@@ -32,7 +33,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="aim_offer.cpp" />
+		<Unit filename="binary_tree.cpp" />
+		<Unit filename="dynamic_programming.cpp" />
+		<Unit filename="sort.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
